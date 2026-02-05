@@ -2,7 +2,7 @@
 
 An educational React application designed to help autistic children (ages 6-12) learn and practice social skills through interactive scenarios and game-based learning.
 
-## 🌟 Features
+##  Features
 
 ### Core Learning Approach
 - **5 Master Principles**: Universal social rules that apply to ANY situation
@@ -53,42 +53,15 @@ An educational React application designed to help autistic children (ages 6-12) 
 
 5. Open your browser and navigate to `http://localhost:5173`
 
-## 📁 Project Structure
-
-```
-social-quest-app/
-├── src/
-│   ├── components/          # React components
-│   │   ├── Header.jsx
-│   │   ├── HomeScreen.jsx
-│   │   ├── PrinciplesScreen.jsx
-│   │   ├── ScenarioScreen.jsx
-│   │   ├── FeedbackScreen.jsx
-│   │   └── CompleteScreen.jsx
-│   ├── data/               # Data files
-│   │   ├── masterPrinciples.js
-│   │   ├── scenarios.js
-│   │   └── unexpectedScenarios.js
-│   ├── App.jsx            # Main app component
-│   ├── main.jsx           # Entry point
-│   └── index.css          # Global styles
-├── public/                # Static assets
-├── index.html            # HTML template
-├── package.json          # Dependencies
-├── vite.config.js        # Vite configuration
-├── tailwind.config.js    # Tailwind configuration
-└── README.md            # This file
-```
-
-## 🎮 How It Works
+##  How It Works
 
 ### The 5 Master Principles
 
-1. **🛡️ Safety First**: If something feels unsafe, find an adult
-2. **💬 Use Your Words**: Communicate needs and feelings calmly
-3. **↔️ Respect Space**: Keep one arm's length from others
-4. **⏸️ Wait and Watch**: Pause and observe when confused
-5. **🆘 Ask for Help**: It's always okay to ask for help
+1. ** Safety First**: If something feels unsafe, find an adult
+2. ** Use Your Words**: Communicate needs and feelings calmly
+3. ** Respect Space**: Keep one arm's length from others
+4. ** Wait and Watch**: Pause and observe when confused
+5. ** Ask for Help**: It's always okay to ask for help
 
 ### Learning Modes
 
@@ -157,42 +130,9 @@ npm run build
 
 The built files will be in the `dist/` directory.
 
-## 📚 Educational Philosophy
 
-This application is based on research in autism education and follows these principles:
-
-1. **Meta-Learning Over Memorization**: Teaching universal principles that apply to infinite scenarios, not rigid scripts for specific situations
-
-2. **Cognitive Flexibility**: Helping children develop thinking patterns to handle novel, unexpected situations
-
-3. **Positive Psychology**: Focusing on growth, capability, and empowerment rather than deficit-based language
-
-4. **Sensory Consideration**: Respecting sensory sensitivities through careful design choices
-
-5. **Concrete Communication**: Using literal, direct language that is easy to process and understand
-
-## 🤝 Contributing
-
-This is an educational project. If you'd like to improve it:
-1. Add more scenarios
-2. Enhance accessibility features
-3. Improve feedback messaging
-4. Add multilingual support
 
 ## 📄 License
 
 This project is created for educational purposes.
 
-## 👏 Acknowledgments
-
-- Designed with input from autism education research
-- Built with React, Vite, and Tailwind CSS
-- Inspired by cognitive behavioral therapy and social skills training methodologies
-
-## 📞 Support
-
-For questions or suggestions about improving the educational content, please reach out to your instructor or teaching assistant.
-
----
-
-**Remember**: The goal is to teach flexible thinking, not rigid rules. Every child learns differently, and this tool is meant to complement, not replace, personalized support from educators and caregivers.
